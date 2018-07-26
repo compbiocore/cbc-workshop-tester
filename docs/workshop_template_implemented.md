@@ -23,6 +23,7 @@ This workshop, 'the Fundamentals of R', is designed to introduce many important 
     * Arguments, variable scope, and return values
 
 > Date: 1/1/2018
+
 > Location: SWIG Boardroom
 
 ## Getting started
@@ -52,4 +53,5 @@ For assistance, contact cbc-help@brown.edu - this is our general help line, so p
 ##  References  
 
 > 1 .  Lorem ipsum dolor sit amet
+
 > 2 .  Sed ut perspiciatis unde omnis iste natus
