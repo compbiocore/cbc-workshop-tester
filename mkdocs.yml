@@ -17,6 +17,4 @@ docs_dir: docs/
 
 pages:
   - Home: 'index.md'
-  - GitHub: 'readme.md'
-  - Documentation: 'mkdocs.md'
   - Notebook: 'notebook.md'
