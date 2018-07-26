@@ -22,9 +22,7 @@ This workshop, 'the Fundamentals of R', is designed to introduce many important 
 
 This site hosts the Jupyter notebook for the CBC Introductory R Workshop.  The notebook will be served on the web as a static HTML page, meaning that while it looks like a live notebook, it cannot be edited.  To obtain an editable notebook file, please click the 'download notebook' link, or right click the link and select 'Save Link As...'.
 
-.. raw:: html
-
-<a href="../assets/r_workshop_notebook_with_output.ipynb" download>Download Notebook</a>
+<a href="/assets/r_workshop_notebook_with_output.ipynb" download>Download Notebook</a>
 
 
 ## Contact
