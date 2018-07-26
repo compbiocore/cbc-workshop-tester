@@ -11,7 +11,7 @@
 
 > Location: SWIG Boardroom
 
-### Workshop Topic Overview
+## Workshop Topic Overview
 
 This workshop, 'the Fundamentals of R', is designed to introduce many important aspects of the R programming language; it is an introductory lecture that assumes no prior knowledge of or experience with R.  The topics presented herein include the following:
 
