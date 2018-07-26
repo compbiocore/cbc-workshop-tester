@@ -5,7 +5,13 @@
 [![nbviewer](https://img.shields.io/badge/jupyter_notebooks-nbviewer-purple.svg?style=flat-square)](http://nbviewer.jupyter.org/github/compbiocore/cbc-workshop-tester/tree/master/docs/src/notebooks)
 [![License](https://img.shields.io/aur/license/yaourt.svg)](https://raw.githubusercontent.com/compbiocore/cbc-workshop-tester/master/LICENSE)
 
-## Workshop Topic Overview
+### Time and Location
+
+> Date: 1/1/2018
+
+> Location: SWIG Boardroom
+
+### Workshop Topic Overview
 
 This workshop, 'the Fundamentals of R', is designed to introduce many important aspects of the R programming language; it is an introductory lecture that assumes no prior knowledge of or experience with R.  The topics presented herein include the following:
 
@@ -22,11 +28,8 @@ This workshop, 'the Fundamentals of R', is designed to introduce many important 
 * Basics of user-created functions
     * Arguments, variable scope, and return values
 
-> Date: 1/1/2018
 
-> Location: SWIG Boardroom
-
-## Getting started
+### Getting started
 
 To login to your instance, please visit the following link.  There, you'll see a user directory; simply copy the password at the top, find your name, and click the link to login to your instance.  Enter the password once prompted, and you'll then be presented with a notebook file.
 
@@ -34,11 +37,11 @@ To login to your instance, please visit the following link.  There, you'll see a
 
 This directory is temporary and will be decommissioned upon completion of the workshop.
 
-## Authors
+### Authors
 
 Andrew Leith
 
-## Other workshops and tutorials
+### Other workshops and tutorials
 
 Links to other workshops (Documentation and GitHub)  
 
@@ -46,11 +49,11 @@ Links to other workshops (Documentation and GitHub)
 - [Bioconductor for RNA-seq](https://compbiocore.github.io/bioconductor-workshop-2/html/index.html)  
 - [Introduction to Linux Tutorial](https://compbiocore.github.io/cbc-linux-tutorial/html/index.html)
 
-## Contact
+### Contact
 
 For assistance, contact cbc-help@brown.edu - this is our general help line, so please specify that your issue is with this site's contents
 
-##  References  
+###  References  
 
 > 1 .  Lorem ipsum dolor sit amet
 
