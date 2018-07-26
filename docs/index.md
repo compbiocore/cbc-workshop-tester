@@ -5,17 +5,17 @@
 This workshop, 'the Fundamentals of R', is designed to introduce many important aspects of the R programming language; it is an introductory lecture that assumes no prior knowledge of or experience with R.  The topics presented herein include the following:
 
 * Basic data types (variables, vectors)
-        * Numeric, character, factor
-        * Vectorized operations and functions
+    * Numeric, character, factor
+    * Vectorized operations and functions
 * Dataframes and dataframe operations
-        * Inspecting data
-        * Exploring data, generating summary statistics
-        * Combining and sorting data sets
+    * Inspecting data
+    * Exploring data, generating summary statistics
+    * Combining and sorting data sets
 * Extensions to base R
-		* Installing new packages from CRAN and Bioconductor
-		* Importing packages
+    * Installing new packages from CRAN and Bioconductor
+    * Importing packages
 * Basics of user-created functions
-        * Arguments, variable scope, and return values
+    * Arguments, variable scope, and return values
 
 
 ## Purpose
