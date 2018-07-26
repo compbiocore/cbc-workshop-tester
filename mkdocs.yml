@@ -19,3 +19,4 @@ pages:
   - Home: 'index.md'
   - Notebook: 'notebook.md'
   - Template: 'workshop_template.md'
+  - Template Implemented: 'workshop_template_implemented.md'
