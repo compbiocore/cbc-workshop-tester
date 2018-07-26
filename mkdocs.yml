@@ -1,8 +1,8 @@
-site_name:        Brown's Computational Biology Core
-site_author:      Fernando Gelin
-repo_url:         https://github.com/compbiocore/cbc-documentation-templates
-site_description: Documentation templates and best-practices for Brown's Computational Biology Core.
-site_url:         https://compbiocore.github.io/cbc-documentation-templates/
+site_name:        Brown University Computational Biology Core
+site_author:      Andrew Leith
+repo_url:         https://github.com/compbiocore/cbc-workshop-tester
+site_description: Brown CBC R Workshop 1
+site_url:         https://compbiocore.github.io/cbc-workshop-tester/
 
 theme:
   name: material
@@ -19,3 +19,4 @@ pages:
   - Home: 'index.md'
   - GitHub: 'readme.md'
   - Documentation: 'mkdocs.md'
+  - Notebook: 'notebook.md'
