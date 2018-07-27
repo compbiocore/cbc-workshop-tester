@@ -37,7 +37,7 @@ To login to your instance, please visit the following link.  There, you'll see a
 
 This directory is temporary and will be decommissioned upon completion of the workshop.
 
-### [Noteboook](http://nbviewer.jupyter.org/github/compbiocore/cbc-workshop-tester/tree/master/docs/src/notebooks)
+# [Notebook](http://nbviewer.jupyter.org/github/compbiocore/cbc-workshop-tester/tree/master/docs/src/notebooks)
 
 To access a read-only version of the workshop notebook (complete with full output), please click the above link; you will be redirected to Jupyter's NBViewer utility.  Simply click the name of the notebook and it will be rendered as HTML.
 
