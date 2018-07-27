@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <url>
+     <loc>https://compbiocore.github.io/cbc-workshop-tester/</loc>
+     <lastmod>2018-07-27</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https://compbiocore.github.io/cbc-workshop-tester/notebook/</loc>
+     <lastmod>2018-07-27</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https://compbiocore.github.io/cbc-workshop-tester/old_workshop_template/</loc>
+     <lastmod>2018-07-27</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https://compbiocore.github.io/cbc-workshop-tester/workshop_template_implemented/</loc>
+     <lastmod>2018-07-27</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+</urlset>

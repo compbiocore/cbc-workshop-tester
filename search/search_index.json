@@ -1,0 +1,129 @@
+{
+    "docs": [
+        {
+            "location": "/", 
+            "text": "Brown CBC's 'Fundamentals of R' Workshop Materials\n\n\nWorkshop Topics\n\n\nThis workshop, 'the Fundamentals of R', is designed to introduce many important aspects of the R programming language; it is an introductory lecture that assumes no prior knowledge of or experience with R.  The topics presented herein include the following:\n\n\n\n\nBasic data types (variables, vectors)\n\n\nNumeric, character, factor\n\n\nVectorized operations and functions\n\n\n\n\n\n\nDataframes and dataframe operations\n\n\nInspecting data\n\n\nExploring data, generating summary statistics\n\n\nCombining and sorting data sets\n\n\n\n\n\n\nExtensions to base R\n\n\nInstalling new packages from CRAN and Bioconductor\n\n\nImporting packages\n\n\n\n\n\n\nBasics of user-created functions\n\n\nArguments, variable scope, and return values\n\n\n\n\n\n\n\n\nPurpose\n\n\nThis site hosts the Jupyter notebook for the CBC Introductory R Workshop.  The notebook will be served on the web as a static HTML page, meaning that while it looks like a live notebook, it cannot be edited.  To obtain an editable notebook file, please click the 'download notebook' link, or right click the link and select 'Save Link As...'.\n\n\nDownload Notebook\n\n\nContact\n\n\nFor assistance, contact cbc-help@brown.edu - this is our general help line, so please specify that your issue is with this site's contents", 
+            "title": "Home"
+        }, 
+        {
+            "location": "/#brown-cbcs-fundamentals-of-r-workshop-materials", 
+            "text": "", 
+            "title": "Brown CBC's 'Fundamentals of R' Workshop Materials"
+        }, 
+        {
+            "location": "/#workshop-topics", 
+            "text": "This workshop, 'the Fundamentals of R', is designed to introduce many important aspects of the R programming language; it is an introductory lecture that assumes no prior knowledge of or experience with R.  The topics presented herein include the following:   Basic data types (variables, vectors)  Numeric, character, factor  Vectorized operations and functions    Dataframes and dataframe operations  Inspecting data  Exploring data, generating summary statistics  Combining and sorting data sets    Extensions to base R  Installing new packages from CRAN and Bioconductor  Importing packages    Basics of user-created functions  Arguments, variable scope, and return values", 
+            "title": "Workshop Topics"
+        }, 
+        {
+            "location": "/#purpose", 
+            "text": "This site hosts the Jupyter notebook for the CBC Introductory R Workshop.  The notebook will be served on the web as a static HTML page, meaning that while it looks like a live notebook, it cannot be edited.  To obtain an editable notebook file, please click the 'download notebook' link, or right click the link and select 'Save Link As...'.  Download Notebook", 
+            "title": "Purpose"
+        }, 
+        {
+            "location": "/#contact", 
+            "text": "For assistance, contact cbc-help@brown.edu - this is our general help line, so please specify that your issue is with this site's contents", 
+            "title": "Contact"
+        }, 
+        {
+            "location": "/notebook/", 
+            "text": "Notebook Page\n\n\nJupyter notebook 1/26/18", 
+            "title": "Notebook"
+        }, 
+        {
+            "location": "/notebook/#notebook-page", 
+            "text": "Jupyter notebook 1/26/18", 
+            "title": "Notebook Page"
+        }, 
+        {
+            "location": "/old_workshop_template/", 
+            "text": "Workshop / Tutorial Title\n\n\n\n\n\n\n\n\nOverview\n\n\nOne Paragraph of project description goes here\n\n\n\n\nDate:\n\nLocation:\n\n\n\n\nGetting started\n\n\nStep by step with code on how to get up and running.\n\n\nReferences\n\n\n\n\n1 .\n\n2 .\n\n\n\n\nAuthors\n\n\nOther workshops and tutorials\n\n\nLinks to other workshops (Documentation and GitHub)  \n\n\n\n\nWorkshop 1\n  \n\n\nWorkshop 2\n  \n\n\nTutorial 1", 
+            "title": "Old Template"
+        }, 
+        {
+            "location": "/old_workshop_template/#workshop-tutorial-title", 
+            "text": "", 
+            "title": "Workshop / Tutorial Title"
+        }, 
+        {
+            "location": "/old_workshop_template/#overview", 
+            "text": "One Paragraph of project description goes here   Date: \nLocation:", 
+            "title": "Overview"
+        }, 
+        {
+            "location": "/old_workshop_template/#getting-started", 
+            "text": "Step by step with code on how to get up and running.", 
+            "title": "Getting started"
+        }, 
+        {
+            "location": "/old_workshop_template/#references", 
+            "text": "1 . \n2 .", 
+            "title": "References"
+        }, 
+        {
+            "location": "/old_workshop_template/#authors", 
+            "text": "", 
+            "title": "Authors"
+        }, 
+        {
+            "location": "/old_workshop_template/#other-workshops-and-tutorials", 
+            "text": "Links to other workshops (Documentation and GitHub)     Workshop 1     Workshop 2     Tutorial 1", 
+            "title": "Other workshops and tutorials"
+        }, 
+        {
+            "location": "/workshop_template_implemented/", 
+            "text": "Introduction to R Workshop\n\n\n\n\n\n\n\n\nTime and Location\n\n\n\n\nDate: 1/1/2018\n\n\nLocation: SWIG Boardroom\n\n\n\n\nWorkshop Topic Overview\n\n\nThis workshop, 'the Fundamentals of R', is designed to introduce many important aspects of the R programming language; it is an introductory lecture that assumes no prior knowledge of or experience with R.  The topics presented herein include the following:\n\n\n\n\nBasic data types (variables, vectors)\n\n\nNumeric, character, factor\n\n\nVectorized operations and functions\n\n\n\n\n\n\nDataframes and dataframe operations\n\n\nInspecting data\n\n\nExploring data, generating summary statistics\n\n\nCombining and sorting data sets\n\n\n\n\n\n\nExtensions to base R\n\n\nInstalling new packages from CRAN and Bioconductor\n\n\nImporting packages\n\n\n\n\n\n\nBasics of user-created functions\n\n\nArguments, variable scope, and return values\n\n\n\n\n\n\n\n\nGetting started\n\n\nTo login to your instance, please visit the following link.  There, you'll see a user directory; simply copy the password at the top, find your name, and click the link to login to your instance.  Enter the password once prompted, and you'll then be presented with a notebook file.\n\n\nCBC Workshop Directory\n\n\nThis directory is temporary and will be decommissioned upon completion of the workshop.\n\n\nNotebook\n\n\nTo access a read-only version of the workshop notebook (complete with full output), please click the above link; you will be redirected to Jupyter's NBViewer utility.  Simply click the name of the notebook and it will be rendered as HTML.\n\n\nJupyter notebook 1/26/18\n\n\n.  \n\n\nAuthors\n\n\nAndrew Leith\n\n\nOther workshops and tutorials\n\n\nLinks to other workshops (Documentation and GitHub)  \n\n\n\n\nIntroduction to Bioconductor\n  \n\n\nBioconductor for RNA-seq\n  \n\n\nIntroduction to Linux Tutorial\n\n\n\n\nContact\n\n\nFor assistance, contact cbc-help@brown.edu - this is our general help line, so please specify that your issue is with this site's contents\n\n\nReferences\n\n\n\n\n1 .  Lorem ipsum dolor sit amet\n\n\n2 .  Sed ut perspiciatis unde omnis iste natus", 
+            "title": "Template Implemented"
+        }, 
+        {
+            "location": "/workshop_template_implemented/#introduction-to-r-workshop", 
+            "text": "", 
+            "title": "Introduction to R Workshop"
+        }, 
+        {
+            "location": "/workshop_template_implemented/#time-and-location", 
+            "text": "Date: 1/1/2018  Location: SWIG Boardroom", 
+            "title": "Time and Location"
+        }, 
+        {
+            "location": "/workshop_template_implemented/#workshop-topic-overview", 
+            "text": "This workshop, 'the Fundamentals of R', is designed to introduce many important aspects of the R programming language; it is an introductory lecture that assumes no prior knowledge of or experience with R.  The topics presented herein include the following:   Basic data types (variables, vectors)  Numeric, character, factor  Vectorized operations and functions    Dataframes and dataframe operations  Inspecting data  Exploring data, generating summary statistics  Combining and sorting data sets    Extensions to base R  Installing new packages from CRAN and Bioconductor  Importing packages    Basics of user-created functions  Arguments, variable scope, and return values", 
+            "title": "Workshop Topic Overview"
+        }, 
+        {
+            "location": "/workshop_template_implemented/#getting-started", 
+            "text": "To login to your instance, please visit the following link.  There, you'll see a user directory; simply copy the password at the top, find your name, and click the link to login to your instance.  Enter the password once prompted, and you'll then be presented with a notebook file.  CBC Workshop Directory  This directory is temporary and will be decommissioned upon completion of the workshop.", 
+            "title": "Getting started"
+        }, 
+        {
+            "location": "/workshop_template_implemented/#notebook", 
+            "text": "To access a read-only version of the workshop notebook (complete with full output), please click the above link; you will be redirected to Jupyter's NBViewer utility.  Simply click the name of the notebook and it will be rendered as HTML.", 
+            "title": "Notebook"
+        }, 
+        {
+            "location": "/workshop_template_implemented/#jupyter-notebook-12618", 
+            "text": ".", 
+            "title": "Jupyter notebook 1/26/18"
+        }, 
+        {
+            "location": "/workshop_template_implemented/#authors", 
+            "text": "Andrew Leith", 
+            "title": "Authors"
+        }, 
+        {
+            "location": "/workshop_template_implemented/#other-workshops-and-tutorials", 
+            "text": "Links to other workshops (Documentation and GitHub)     Introduction to Bioconductor     Bioconductor for RNA-seq     Introduction to Linux Tutorial", 
+            "title": "Other workshops and tutorials"
+        }, 
+        {
+            "location": "/workshop_template_implemented/#contact", 
+            "text": "For assistance, contact cbc-help@brown.edu - this is our general help line, so please specify that your issue is with this site's contents", 
+            "title": "Contact"
+        }, 
+        {
+            "location": "/workshop_template_implemented/#references", 
+            "text": "1 .  Lorem ipsum dolor sit amet  2 .  Sed ut perspiciatis unde omnis iste natus", 
+            "title": "References"
+        }
+    ]
+}
